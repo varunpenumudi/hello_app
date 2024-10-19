@@ -1,3 +1,5 @@
+name = input("ENter you name: ")
+
 hello_str = """
 Hello to you, my friend so dear,
 With open hearts, I bring you cheer!
@@ -9,4 +11,6 @@ Let joy remain, if just a while.
 So here’s my greeting, warm and true,
 A simple “hi” from me to you!
 """
+
+print("Hello"+name)
 print(hello_str)
