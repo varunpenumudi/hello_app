@@ -12,5 +12,5 @@ So here’s my greeting, warm and true,
 A simple “hi” from me to you!
 """
 
-print("Hello"+name)
+print("Hello "+name)
 print(hello_str)
